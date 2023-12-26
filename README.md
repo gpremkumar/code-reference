@@ -5,4 +5,4 @@ https://javascript.plainenglish.io/25-killer-javascript-one-liners-thatll-make-y
 
 
 # clone github repo with different account other than global account
- git remote set-url https://<PAT>@github.com/<username>/<repo-name>.git
+ git remote set-url https://(PAT)@github.com/(username)/(repo-name).git
